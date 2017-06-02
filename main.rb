@@ -1,3 +1,4 @@
+require 'http_proxy_from_env'
 require 'net/http'
 require 'im-kayac'
 
